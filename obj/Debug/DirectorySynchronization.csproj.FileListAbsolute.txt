@@ -1,0 +1,13 @@
+C:\Users\ext02d9351\source\repos\DirectorySynchronization\DirectorySynchronization\bin\Debug\DirectorySynchronization.exe
+C:\Users\ext02d9351\source\repos\DirectorySynchronization\DirectorySynchronization\bin\Debug\DirectorySynchronization.pdb
+C:\Users\ext02d9351\source\repos\DirectorySynchronization\DirectorySynchronization\bin\Debug\Renci.SshNet.dll
+C:\Users\ext02d9351\source\repos\DirectorySynchronization\DirectorySynchronization\obj\Debug\DirectorySynchronization.csprojAssemblyReference.cache
+C:\Users\ext02d9351\source\repos\DirectorySynchronization\DirectorySynchronization\obj\Debug\DirectorySynchronization.csproj.CopyComplete
+C:\Users\ext02d9351\source\repos\DirectorySynchronization\DirectorySynchronization\obj\Debug\DirectorySynchronization.exe
+C:\Users\ext02d9351\source\repos\DirectorySynchronization\DirectorySynchronization\obj\Debug\DirectorySynchronization.pdb
+D:\RDCSONERCELIK\DirectorySynchronization\DirectorySynchronization\bin\Debug\DirectorySynchronization.exe.config
+D:\RDCSONERCELIK\DirectorySynchronization\DirectorySynchronization\bin\Debug\DirectorySynchronization.exe
+D:\RDCSONERCELIK\DirectorySynchronization\DirectorySynchronization\bin\Debug\DirectorySynchronization.pdb
+D:\RDCSONERCELIK\DirectorySynchronization\DirectorySynchronization\bin\Debug\WinSCPnet.dll
+D:\RDCSONERCELIK\DirectorySynchronization\DirectorySynchronization\obj\Debug\DirectorySynchronization.exe
+D:\RDCSONERCELIK\DirectorySynchronization\DirectorySynchronization\obj\Debug\DirectorySynchronization.pdb

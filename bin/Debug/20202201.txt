@@ -1,0 +1,5 @@
+20200122131338|Başarılı
+20200122131338|Uploaded: 0
+20200122131338|Removed: 1
+20200122131338|Removals Files
+20200122131338|/home/shared/nrun6/Test/Sezgin/SSH.NET-develop.rar
